@@ -1,4 +1,4 @@
-                                                Stored XSS in cookie Alinto/SOGo 
+                                            Stored XSS in cookie Alinto/SOGo 
 
 Researchers: Daniil Khomichenok, Alexander Klimenko
 
