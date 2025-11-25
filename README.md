@@ -2,7 +2,7 @@
 
 Researchers: Daniil Khomichenok, Alexander Klimenko
 
-Affected Versions < 5.12.3
+Affected Versions < 5.12.4 ( [https://github.com/Alinto/sogo/releases/tag/SOGo-5.12.4](https://github.com/Alinto/sogo/releases/tag/SOGo-5.12.4#:~:text=attendee%20(736d758)-,login,-%3A%20Only%20remember) )
 
 Date: 01.10.2025
 
